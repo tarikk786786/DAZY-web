@@ -1,0 +1,4 @@
+project_id = "mllmkgwlkmbnaclanunr"
+
+[functions.dazy-chat]
+verify_jwt = false
